@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FiveM servers and Discord Bot**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS & LUA...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
