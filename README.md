@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerkaydev&label=Profile%20views&color=0e75b6&style=flat" alt="zerkaydev" /> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **FiveM servers and Discord Bot**
 
 - 🌱 I’m currently learning **JS**
 
